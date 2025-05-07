@@ -1,0 +1,58 @@
+name: Deploy Next.js App
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Check Node.js version
+        run: node -v
+
+      - name: Set up SSH
+        uses: webfactory/ssh-agent@v0.5.1
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+      - name: Deploy to Hostinger VPS
+        env:
+          HOST: ${{ secrets.HOST }}
+          USERNAME: root
+          TARGET_DIR: /home/nextjs/CumCraze
+          APP_NAME: CumCraze
+          PORT: 3002
+        run: |
+          ssh -o StrictHostKeyChecking=no $USERNAME@$HOST << 'EOF'
+            export TARGET_DIR="/home/nextjs/CumCraze"
+            export APP_NAME="CumCraze"
+            export PORT="3001"
+
+            # Load NVM
+            export NVM_DIR="$HOME/.nvm"
+            [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+
+            # Move to project directory
+            cd $TARGET_DIR || exit 1
+
+            # Pull latest code
+            git pull origin main
+
+            # Install dependencies & build
+            yarn build
+
+            # Restart PM2 process
+            # Restart PM2 process
+            pm2 restart "$APP_NAME"
+            pm2 save
+          EOF

@@ -1,0 +1,174 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Pushster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital@1&family=Tinos&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Delius+Unicase&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;1,200;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+
+/* Material Design Icons */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.3.45/css/materialdesignicons.min.css');
+
+/* Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Component Styles */
+@layer components {
+    body {
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        -webkit-tap-highlight-color: transparent;
+    }
+
+    /* Example of custom component styles */
+    .icon {
+        @apply h-5 md:h-6 mr-[3px] lg:mr-1 transform transition duration-200;
+    }
+
+    .dark {
+        @apply bg-black text-white border-gray-800;
+    }
+
+    .light {
+        @apply bg-gray-100 text-black border-gray-300;
+    }
+
+    .header {
+        @apply font-bold p-1 text-xl mt-10;
+    }
+
+    .basicMargin {
+        @apply mx-2 lg:mx-4;
+    }
+
+
+    .basicMargin_sidebar {
+        @apply ml-6 px-[36px] 2xl:px-[50px] 3xl:px-[65px];
+    }
+
+    /* Example of specific styles for a component */
+    .partitioned {
+        padding-left: 10px;
+        padding-bottom: 5px;
+        letter-spacing: 41px;
+        border: 0;
+        background-image: linear-gradient(to left, white 70%, rgba(255, 255, 255, 0) 0%);
+        background-position: bottom;
+        background-size: 50px 1px;
+        background-repeat: repeat-x;
+        background-position-x: 35px;
+        width: 275px;
+        outline: none;
+    }
+
+    /* Example of nested styles */
+    .divInner {
+        left: 0;
+        position: sticky;
+    }
+
+    .divOuter {
+        width: 200px;
+        overflow: hidden;
+    }
+
+    /* Payment gateway model styles */
+    .form-radio {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+        display: inline-block;
+        vertical-align: middle;
+        background-origin: border-box;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        flex-shrink: 0;
+        border-radius: 100%;
+        border-width: 2px;
+    }
+
+    .form-radio:checked {
+        background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 16 16' fill='white' xmlns='http://www.w3.org/2000/svg'%3e%3ccircle cx='8' cy='8' r='3'/%3e%3c/svg%3e");
+        border-color: transparent;
+        background-color: currentColor;
+        background-size: 100% 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    @media not print {
+        .form-radio::-ms-check {
+            border-width: 1px;
+            color: transparent;
+            background: inherit;
+            border-color: inherit;
+            border-radius: inherit;
+        }
+    }
+
+    .form-radio:focus {
+        outline: none;
+    }
+
+    .form-select {
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23a0aec0'%3e%3cpath d='M15.3 9.3a1 1 0 0 1 1.4 1.4l-4 4a1 1 0 0 1-1.4 0l-4-4a1 1 0 0 1 1.4-1.4l3.3 3.29 3.3-3.3z'/%3e%3c/svg%3e");
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+        background-repeat: no-repeat;
+        padding-top: 0.5rem;
+        padding-right: 2.5rem;
+        padding-bottom: 0.5rem;
+        padding-left: 0.75rem;
+        font-size: 1rem;
+        line-height: 1.5;
+        background-position: right 0.5rem center;
+        background-size: 1.5em 1.5em;
+    }
+
+    .form-select::-ms-expand {
+        color: #a0aec0;
+        border: none;
+    }
+
+    @media not print {
+        .form-select::-ms-expand {
+            display: none;
+        }
+    }
+
+    @media print and (-ms-high-contrast: active),
+    print and (-ms-high-contrast: none) {
+        .form-select {
+            padding-right: 0.75rem;
+        }
+    }
+
+    /* In your global CSS file */
+    input:focus {
+        outline: none !important;
+        box-shadow: none !important;
+    }
+
+}
+
+/* Base styles */
+@layer base {
+
+    input[type="number"]::-webkit-inner-spin-button,
+    input[type="number"]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+}

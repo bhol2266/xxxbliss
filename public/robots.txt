@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /pornstar/query
+Disallow: /search/query   
+Disallow: /category/query
+Disallow: http://cumcraze.com/
+Disallow: https://cumcraze.com/
+Allow: /
+
+
+Sitemap: https://www.cumcraze.com/sitemap.xml
