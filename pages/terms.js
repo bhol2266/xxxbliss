@@ -14,7 +14,7 @@ function terms() {
             <h1 className='header'>Terms ot use</h1>
             <p className='para'>Please review these terms and conditions of use carefully before using chudlunds.live.</p>
 
-            <p className='para'>This document states the terms and conditions (*Terms”) upon which the owner and operator of cumcraze.com (‘we” or “us’) will provide service to you on its websites, including chudlunds.live (the “Website”). These Terms constitute a contractual agreement
+            <p className='para'>This document states the terms and conditions (*Terms”) upon which the owner and operator of XXXBliss.com (‘we” or “us’) will provide service to you on its websites, including chudlunds.live (the “Website”). These Terms constitute a contractual agreement
                 between you and us. By visiting, accessing, using, and/or joining (collectively “using’) the Website, you express your understanding and acceptance of these Terms. As used in this document, the terms “you” or “your” refers to you, any entity you represent, your
                 or its representatives, successors, assigns and affiliates, and any of your or their devices. If you do not agree to be bound by these Terms, navigate away from the Website and cease using it</p>
 

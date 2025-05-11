@@ -117,7 +117,7 @@ const Membership = () => {
             <div className=''>
 
                 <div className='flex items-center justify-center pt-2 lg:pt-5'>
-                    <p className=' align-center text-center font-Dancing font-bold text-white  text-[50px] lg:text-[80px] cursor-pointer lg:text-left select-none'>CumCraze</p>
+                    <p className=' align-center text-center font-Dancing font-bold text-white  text-[50px] lg:text-[80px] cursor-pointer lg:text-left select-none'>XXXBliss</p>
                     <img src="/vip-pass.png" alt="vip-pass" className='h-[70px] lg:h-[120px] animate-shine' />
                 </div>
 

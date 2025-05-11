@@ -11,14 +11,14 @@ function parentalcontrol() {
 
                 <p className='flex-grow text-3xl  ml-2'>Parental control</p>
             </div>
-            <h1 className="header">CumCraze is rated with RTA label</h1>
+            <h1 className="header">XXXBliss is rated with RTA label</h1>
             <p className="para">Parents, you can easily block access to this site. Please read this page: www.rtalabel.org for more information.
             </p>
 
             <h1 className="header">Parental Controls and how to keep your children safe and innocent
             </h1>
 
-            <p className="para">Living with children is a wonderful and altering experience. Everything about your world changes, and it doesn’t return until they move out at 22 or older. How you view others in pain, how you budget your money, and plan for the future changes in your soul too. It should even change how you consume porn. Yes, that’s right. Watching pornography in an area or on a device that children have access to is just plain irresponsible. We here at CumCraze do not want children to watch porn at all. We want our viewers to keep access to pornography under lock and key. If you also want to protect your children from viewing pornography, then you have to start using parental controls. If you don’t know how to use parental control and you’re not sure which ones you can choose, then please read this in-depth guide all about them.</p>
+            <p className="para">Living with children is a wonderful and altering experience. Everything about your world changes, and it doesn’t return until they move out at 22 or older. How you view others in pain, how you budget your money, and plan for the future changes in your soul too. It should even change how you consume porn. Yes, that’s right. Watching pornography in an area or on a device that children have access to is just plain irresponsible. We here at XXXBliss do not want children to watch porn at all. We want our viewers to keep access to pornography under lock and key. If you also want to protect your children from viewing pornography, then you have to start using parental controls. If you don’t know how to use parental control and you’re not sure which ones you can choose, then please read this in-depth guide all about them.</p>
 
             <h1 className="header">What is parental control?
             </h1>
@@ -45,7 +45,7 @@ function parentalcontrol() {
 
             <p className="para">RTA or Restricted to Adults is a rating system created by the Association of Sites Advocating Child Protection (ASACP). It’s meant to protect children by creating an easy to use filtering system that parental control programs can use to flag that is inappropriate for children. No website has to use it, as it is a voluntary program. However, pornographic websites that do decide to register themselves with the RTA shows that they are dedicated to protecting children from material they are too young to view</p>
 
-            <p className="para">CumCraze is a proud member of the RTA rating system, and we registered our website quite a while ago. Our site, CumCraze, has an RTA code: RTA-5042-1996-1400-1577-RTA</p>
+            <p className="para">XXXBliss is a proud member of the RTA rating system, and we registered our website quite a while ago. Our site, XXXBliss, has an RTA code: RTA-5042-1996-1400-1577-RTA</p>
 
             <p className="para">When you activate a browser’s filtering system or install a parental control that uses the RTA system, if you go to eponer.com, the filter will see our rating and restrict access to our sites automatically. But remember, websites like ours are only restricted if it uses an RTA code. If an adult or mature website does not use the RTA system, then you will have to add our site into the list of restricted websites.</p>
 

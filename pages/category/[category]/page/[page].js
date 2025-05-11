@@ -31,15 +31,15 @@ function Category({ video_collection, pages }) {
     return (
         <>
            <Head>
-                <title>{capitalizeFirstLetter(category)} sex videos - | CumCraze | Page {page}</title>
-                <meta name="description" content={`Watch free collection of ${capitalizeFirstLetter(category)} sex videos, ${category} porn videos, latest ${category} videos in high quality only on CumCraze.`} />
+                <title>{capitalizeFirstLetter(category)} sex videos - | XXXBliss | Page {page}</title>
+                <meta name="description" content={`Watch free collection of ${capitalizeFirstLetter(category)} sex videos, ${category} porn videos, latest ${category} videos in high quality only on XXXBliss.`} />
 
                 <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
-                <meta property="og:title" content={`${capitalizeFirstLetter(category)} sex videos | CumCraze | Page ${page}`} />
-                <meta property="og:description" content={`Watch free collection of ${capitalizeFirstLetter(category)} sex videos, ${category} porn videos, latest ${category} videos in high quality only on CumCraze.`} />
-                <meta name="twitter:title" content={`${capitalizeFirstLetter(category)} sex videos | CumCraze | Page ${page}`} />
-                <meta name="twitter:description" content={`Watch free collection of ${capitalizeFirstLetter(category)} sex videos, ${category} porn videos, latest ${category} videos in high quality only on CumCraze.`} />
-                <link rel="canonical" href={`https://www.cumcraze.com/category/${category}/page/${page}`} />
+                <meta property="og:title" content={`${capitalizeFirstLetter(category)} sex videos | XXXBliss | Page ${page}`} />
+                <meta property="og:description" content={`Watch free collection of ${capitalizeFirstLetter(category)} sex videos, ${category} porn videos, latest ${category} videos in high quality only on XXXBliss.`} />
+                <meta name="twitter:title" content={`${capitalizeFirstLetter(category)} sex videos | XXXBliss | Page ${page}`} />
+                <meta name="twitter:description" content={`Watch free collection of ${capitalizeFirstLetter(category)} sex videos, ${category} porn videos, latest ${category} videos in high quality only on XXXBliss.`} />
+                <link rel="canonical" href={`https://www.XXXBliss.com/category/${category}/page/${page}`} />
             </Head>
 
             <Header keyword={category} pageNumber={currentPageNumberURL} />

@@ -129,13 +129,13 @@ function Index({ video_collection, trendingChannels, newChannels }) {
 
                 <Head>
 
-                    <title>Top Porn Channels: Leading Sex Video Producers & Creators | CumCraze</title>
-                    <meta name="description" content="Explore an extensive catalog of the top porn tube channels featuring talented sex video producers and XXX creators. Discover complimentary films from your preferred adult paysites on CumCraze!" />
-                    <meta property="og:title" content="Top Porn Channels: Leading Sex Video Producers & Creators | CumCraze" />
-                    <meta property="og:description" content="Explore an extensive catalog of the top porn tube channels featuring talented sex video producers and XXX creators. Discover complimentary films from your preferred adult paysites on CumCraze!" />
-                    <meta name="twitter:title" content="Top Porn Channels: Leading Sex Video Producers & Creators | CumCraze" />
-                    <meta name="twitter:description" content="Explore an extensive catalog of the top porn tube channels featuring talented sex video producers and XXX creators. Discover complimentary films from your preferred adult paysites on CumCraze!" />
-                    <link rel="canonical" href={`https://www.cumcraze.com/channels`} />
+                    <title>Top Porn Channels: Leading Sex Video Producers & Creators | XXXBliss</title>
+                    <meta name="description" content="Explore an extensive catalog of the top porn tube channels featuring talented sex video producers and XXX creators. Discover complimentary films from your preferred adult paysites on XXXBliss!" />
+                    <meta property="og:title" content="Top Porn Channels: Leading Sex Video Producers & Creators | XXXBliss" />
+                    <meta property="og:description" content="Explore an extensive catalog of the top porn tube channels featuring talented sex video producers and XXX creators. Discover complimentary films from your preferred adult paysites on XXXBliss!" />
+                    <meta name="twitter:title" content="Top Porn Channels: Leading Sex Video Producers & Creators | XXXBliss" />
+                    <meta name="twitter:description" content="Explore an extensive catalog of the top porn tube channels featuring talented sex video producers and XXX creators. Discover complimentary films from your preferred adult paysites on XXXBliss!" />
+                    <link rel="canonical" href={`https://www.XXXBliss.com/channels`} />
 
 
 

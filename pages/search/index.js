@@ -82,16 +82,16 @@ function Search({ tags }) {
         <div className="basicMargin mt-3">
 
             <Head>
-                <title>Search Porn Videos, Discover Free XXX Movies Online | CumCraze</title>
+                <title>Search Porn Videos, Discover Free XXX Movies Online | XXXBliss</title>
                 <meta name="description"
-                    content="CumCraze is known as one of the most advanced porn video search engines, offering a wide variety of full-length hardcore sex movies, short XXX video clips, and high-quality adult tube scenes. Whatever type of porn video you desire, you can count on CumCraze to deliver exactly what you're looking for!" />
+                    content="XXXBliss is known as one of the most advanced porn video search engines, offering a wide variety of full-length hardcore sex movies, short XXX video clips, and high-quality adult tube scenes. Whatever type of porn video you desire, you can count on XXXBliss to deliver exactly what you're looking for!" />
                 G
-                <meta property="og:title" content="Search Porn Videos, Discover Free XXX Movies Online | CumCraze" />
-                <meta property="og:description" content="CumCraze is known as one of the most advanced porn video search engines, offering a wide variety of full-length hardcore sex movies, short XXX video clips, and high-quality adult tube scenes. Whatever type of porn video you desire, you can count on CumCraze to deliver exactly what you're looking for!" />
-                <meta name="twitter:title" content="Search Porn Videos, Discover Free XXX Movies Online | CumCraze" />
-                <meta name="twitter:description" content="CumCraze is known as one of the most advanced porn video search engines, offering a wide variety of full-length hardcore sex movies, short XXX video clips, and high-quality adult tube scenes. Whatever type of porn video you desire, you can count on CumCraze to deliver exactly what you're looking for!" />
+                <meta property="og:title" content="Search Porn Videos, Discover Free XXX Movies Online | XXXBliss" />
+                <meta property="og:description" content="XXXBliss is known as one of the most advanced porn video search engines, offering a wide variety of full-length hardcore sex movies, short XXX video clips, and high-quality adult tube scenes. Whatever type of porn video you desire, you can count on XXXBliss to deliver exactly what you're looking for!" />
+                <meta name="twitter:title" content="Search Porn Videos, Discover Free XXX Movies Online | XXXBliss" />
+                <meta name="twitter:description" content="XXXBliss is known as one of the most advanced porn video search engines, offering a wide variety of full-length hardcore sex movies, short XXX video clips, and high-quality adult tube scenes. Whatever type of porn video you desire, you can count on XXXBliss to deliver exactly what you're looking for!" />
                 <meta name="twitter:card" content="summary_large_image" />
-                <link rel="canonical" href={`https://www.cumcraze.com/search`} />
+                <link rel="canonical" href={`https://www.XXXBliss.com/search`} />
 
             </Head>
 

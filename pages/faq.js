@@ -23,7 +23,7 @@ function faq() {
 
             <details className="border-2 border-gray-400 p-2 bg-gray-200 font-light cursor-pointer hover:bg-gray-300">
                 <summary className="font-semibold">Can I create an account?</summary>
-                Yes, you can create an account. At the top of the page there is a link &quot;register&quot;. Account on CumCraze is free and we will NOT charge you anything.
+                Yes, you can create an account. At the top of the page there is a link &quot;register&quot;. Account on XXXBliss is free and we will NOT charge you anything.
             </details>
 
 
@@ -34,7 +34,7 @@ function faq() {
 
 
             <details className="border-2 border-gray-400 p-2 bg-gray-200 font-light cursor-pointer hover:bg-gray-300">
-                <summary className="font-semibold">Why did CumCraze delete my uploaded material?</summary>
+                <summary className="font-semibold">Why did XXXBliss delete my uploaded material?</summary>
                 It could have happened for several reasons. It is possible that someone has reported their rights to the material, it is also possible that someone has reported illegal content. In such cases, we are obligated to remove such material. If you are the owner, and think that this is mistake, you can send us DMCA Counter Notice to get it restored.
             </details>
 
@@ -57,7 +57,7 @@ function faq() {
                 <summary className="font-semibold">On your website there are materials protected by my copyright. What should I do?</summary>
                 Please use DMCA removal request . Send us such a notification by providing required details and statements and a link to the indicated material.            </details>
             <details className="border-2 border-gray-400 p-2 bg-gray-200 font-light cursor-pointer hover:bg-gray-300">
-                <summary className="font-semibold">CumCraze contains content with my participation without my consent.</summary>
+                <summary className="font-semibold">XXXBliss contains content with my participation without my consent.</summary>
                 Please use DMCA removal request . Send us such a notification by providing required details and statements and a link to the indicated material.
             </details>
             <details className="border-2 border-gray-400 p-2 bg-gray-200 font-light cursor-pointer hover:bg-gray-300">
@@ -69,7 +69,7 @@ function faq() {
             <h1 className="header">Advertisement:</h1>
 
             <details className="border-2 border-gray-400 p-2 bg-gray-200 font-light cursor-pointer hover:bg-gray-300">
-                <summary className="font-semibold">Can I buy ads on CumCraze?</summary>
+                <summary className="font-semibold">Can I buy ads on XXXBliss?</summary>
                 Absolutely. You&apos;re welcome to contact us about it. All contact details can be found in the contact tab at the bottom of the page. Or better click here: Advertisement.
             </details>
 
@@ -99,14 +99,14 @@ function faq() {
             </h1>
 
             <details className="border-2 border-gray-400 p-2 bg-gray-200 font-light cursor-pointer hover:bg-gray-300">
-                <summary className="font-semibold">Who can use CumCraze?</summary>
-                CumCraze can be used by persons who are at least 18 years old. If there are other legal regulations in your country, increasing age or restricting access, you should strictly follow them.            </details>
+                <summary className="font-semibold">Who can use XXXBliss?</summary>
+                XXXBliss can be used by persons who are at least 18 years old. If there are other legal regulations in your country, increasing age or restricting access, you should strictly follow them.            </details>
 
 
             <details className="border-2 border-gray-400 p-2 bg-gray-200 font-light cursor-pointer hover:bg-gray-300">
-                <summary className="font-semibold">Is the use of CumCraze free of charge?
+                <summary className="font-semibold">Is the use of XXXBliss free of charge?
                 </summary>
-                Yes, the use of CumCraze is completely free. We do not charge for anything and all the service functions are available free of charge.
+                Yes, the use of XXXBliss is completely free. We do not charge for anything and all the service functions are available free of charge.
 
 
             </details>
@@ -124,7 +124,7 @@ function faq() {
             <details className="border-2 border-gray-400 p-2 bg-gray-200 font-light cursor-pointer hover:bg-gray-300">
                 <summary className="font-semibold">I have an idea how to improve your website. What to do?
                 </summary>
-                We are always open to suggestions from users. Write us a message and tell us about your ideas on how to improve CumCraze. Thanks to such a suggestion we are getting better and better for you.
+                We are always open to suggestions from users. Write us a message and tell us about your ideas on how to improve XXXBliss. Thanks to such a suggestion we are getting better and better for you.
 
             </details>
 
@@ -140,7 +140,7 @@ function faq() {
             <details className="border-2 border-gray-400 p-2 bg-gray-200 font-light cursor-pointer hover:bg-gray-300">
                 <summary className="font-semibold">Which devices can I use the website on?
                 </summary>
-                You can use CumCraze both on mobile, desktop and tablet devices. We support all modern browsers and all operating systems. However, if you find somewhere an error in operation on a given system, please inform us about it.
+                You can use XXXBliss both on mobile, desktop and tablet devices. We support all modern browsers and all operating systems. However, if you find somewhere an error in operation on a given system, please inform us about it.
 
             </details>
 
@@ -154,9 +154,9 @@ function faq() {
 
 
             <details className="border-2 border-gray-400 p-2 bg-gray-200 font-light cursor-pointer hover:bg-gray-300">
-                <summary className="font-semibold">CumCraze in my country is being blocked. How to deal with it?
+                <summary className="font-semibold">XXXBliss in my country is being blocked. How to deal with it?
                 </summary>
-                Sometimes the internal regulations of a country block access to CumCraze content from that country. In the footer of the page you will find information on how to bypass such blocking.
+                Sometimes the internal regulations of a country block access to XXXBliss content from that country. In the footer of the page you will find information on how to bypass such blocking.
 
 
             </details>
@@ -183,7 +183,7 @@ function faq() {
             <details className="border-2 border-gray-400 p-2 bg-gray-200 font-light cursor-pointer hover:bg-gray-300">
                 <summary className="font-semibold">Are there other language versions available?
                 </summary>
-                Yes, CumCraze has several language versions and we are constantly working on adding more languages to our service. You can choose it in upper right corner of website.
+                Yes, XXXBliss has several language versions and we are constantly working on adding more languages to our service. You can choose it in upper right corner of website.
 
 
             </details>

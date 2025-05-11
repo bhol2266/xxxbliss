@@ -42,7 +42,7 @@ function HomepageVideos({ video_collection, pages }) {
                 <meta name="twitter:title" content={`${capitalizeFirstLetter(homepageVideos)} Porn Videos`} />
                 <meta name="twitter:description" content={`${capitalizeFirstLetter(homepageVideos)} Porn Videos!`} />
                 <meta name="twitter:card" content="summary_large_image" />
-                <link rel="canonical" href={`https://www.cumcraze.com/${homepageVideos}/page/${page}`} />
+                <link rel="canonical" href={`https://www.XXXBliss.com/${homepageVideos}/page/${page}`} />
 
 
             </Head>

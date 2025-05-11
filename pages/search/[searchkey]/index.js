@@ -42,15 +42,15 @@ function Search({ video_collection, pages }) {
   return (
     <>
       <Head>
-        <title>{`${capitalizeFirstLetter(searchkey.replace('+', " ").replace("+", " "))} Porn Videos - CumCraze`}</title>
-        <meta name="description" content={`Watch ${capitalizeFirstLetter(searchkey.replace('+', " ").replace("+", " "))} porn videos. Explore tons of XXX movies with sex scenes in on CumCraze!`} />
-        <meta property="og:title" content={`${capitalizeFirstLetter(searchkey.replace('+', " ").replace("+", " "))} Porn Videos - CumCraze | ${currentPageNumberURL}`} />
-        <meta property="og:description" content={`Watch ${capitalizeFirstLetter(searchkey.replace('+', " ").replace("+", " "))} porn videos. Explore tons of XXX movies with sex scenes in on CumCraze!`} />
-        <meta name="twitter:title" content={`${capitalizeFirstLetter(searchkey.replace('+', " ").replace("+", " "))} Porn Videos - CumCraze | ${currentPageNumberURL}`} />
-        <meta name="twitter:description" content={`Watch ${capitalizeFirstLetter(searchkey.replace('+', " ").replace("+", " "))} porn videos. Explore tons of XXX movies with sex scenes in on CumCraze!`} />
+        <title>{`${capitalizeFirstLetter(searchkey.replace('+', " ").replace("+", " "))} Porn Videos - XXXBliss`}</title>
+        <meta name="description" content={`Watch ${capitalizeFirstLetter(searchkey.replace('+', " ").replace("+", " "))} porn videos. Explore tons of XXX movies with sex scenes in on XXXBliss!`} />
+        <meta property="og:title" content={`${capitalizeFirstLetter(searchkey.replace('+', " ").replace("+", " "))} Porn Videos - XXXBliss | ${currentPageNumberURL}`} />
+        <meta property="og:description" content={`Watch ${capitalizeFirstLetter(searchkey.replace('+', " ").replace("+", " "))} porn videos. Explore tons of XXX movies with sex scenes in on XXXBliss!`} />
+        <meta name="twitter:title" content={`${capitalizeFirstLetter(searchkey.replace('+', " ").replace("+", " "))} Porn Videos - XXXBliss | ${currentPageNumberURL}`} />
+        <meta name="twitter:description" content={`Watch ${capitalizeFirstLetter(searchkey.replace('+', " ").replace("+", " "))} porn videos. Explore tons of XXX movies with sex scenes in on XXXBliss!`} />
         
         {/* Additional meta tags */}
-        <link rel="canonical" href={`https://www.cumcraze.com/search/${searchkey}`} />
+        <link rel="canonical" href={`https://www.XXXBliss.com/search/${searchkey}`} />
       </Head>
 
 
