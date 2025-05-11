@@ -176,7 +176,8 @@ function Navbar() {
                                 <div className='flex items-center space-x-1' >
 
                                     <Link href='/'>
-                                        <img src='/logo.png' alt="logo" className='w-[94px]' />
+                                        {/* <img src='/logo.png' alt="logo" className='w-[94px]' /> */}
+                                        <p className="font-inter text-[30px] text-pink-700"> XXXBliss.com</p>
                                     </Link>
                                     {location &&
                                         <div className='cursor-pointer' onClick={handleClickFlag}>
@@ -390,7 +391,7 @@ function Navbar() {
                         rel="dofollow"
                     >
                         <MdLiveTv className='h-5 w-5 text-gray-700' />
-                       
+
                         <span className={`sm:text-xl xl:text-[28px] text-md text-semiblack text-center mb-0`}>
                             Channels
                         </span>
@@ -418,7 +419,9 @@ function Navbar() {
                     <div className='flex items-center space-x-1 md:space-x-3  ml-2' >
 
                         <Link href='/'>
-                            <img src='/logo.png' alt="logo" className='w-[120px]' />
+                            {/* <img src='/logo.png' alt="logo" className='w-[120px]' /> */}
+                            <p className="font-inter text-[40px] text-pink-700"> XXXBliss.com</p>
+
                         </Link>
                         {location &&
 
@@ -509,7 +512,7 @@ function Navbar() {
                             }
                             <Link href='/membership' legacyBehavior>
                                 <a
-                                    rel="dofollow" 
+                                    rel="dofollow"
                                 >
                                     <button className="bg-red-500 text-white rounded-[22px] font-semibold text-center px-5 p-1.5 m-1 text-md block_popunder hover:scale-105 transition-transform duration-300 text-nowrap">
                                         Join Now
