@@ -36,7 +36,7 @@ jobs:
           ssh -o StrictHostKeyChecking=no $USERNAME@$HOST << 'EOF'
             export TARGET_DIR="/home/nextjs/xxxbliss"
             export APP_NAME="xxxbliss"
-            export PORT="3001"
+            export PORT="3012"
 
             # Load NVM
             export NVM_DIR="$HOME/.nvm"
