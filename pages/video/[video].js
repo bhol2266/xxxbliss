@@ -161,18 +161,17 @@ const Videoplayer = () => {
 
             {preloadedVideoQuality.length > 0 && !noVideo ? (
                 <>
-                    <Head>
+                    <head>
                         <title>{`${noVideo ? videoTitleBackup : videoDetails.Title} - ${noVideo ? "720p" : videolinkQualitiesScreenshots.video_qualities_available[videolinkQualitiesScreenshots.video_qualities_available.length - 1].toUpperCase()}`} | XXXBliss</title>
-                        <meta name="description" content={`Watch  ${capitalizeFirstLetter(noVideo ? videoTitleBackup : videoDetails.Title)} on XXXBliss `} />
+                        <meta name="description" content={`Watch ${capitalizeFirstLetter(noVideo ? videoTitleBackup : videoDetails.Title)} on XXXBliss`} />
                         <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
                         <meta name="keywords" content={tagString} />
                         <meta property="og:title" content={`${noVideo ? videoTitleBackup : videoDetails.Title} - ${noVideo ? "720p" : videolinkQualitiesScreenshots.video_qualities_available[videolinkQualitiesScreenshots.video_qualities_available.length - 1].toUpperCase()}`} />
-                        <meta property="og:description" content={`Watch  ${capitalizeFirstLetter(noVideo ? videoTitleBackup : videoDetails.Title)} on XXXBliss `} />
+                        <meta property="og:description" content={`Watch ${capitalizeFirstLetter(noVideo ? videoTitleBackup : videoDetails.Title)} on XXXBliss`} />
                         <meta name="twitter:title" content={`${noVideo ? videoTitleBackup : videoDetails.Title} - ${noVideo ? "720p" : videolinkQualitiesScreenshots.video_qualities_available[videolinkQualitiesScreenshots.video_qualities_available.length - 1].toUpperCase()}`} />
-                        <meta name="twitter:description" content={`Watch  ${capitalizeFirstLetter(noVideo ? videoTitleBackup : videoDetails.Title)} on XXXBliss `} />
+                        <meta name="twitter:description" content={`Watch ${capitalizeFirstLetter(noVideo ? videoTitleBackup : videoDetails.Title)} on XXXBliss`} />
                         <link rel="canonical" href={`https://www.XXXBliss.com/video/${video}`} />
-
-                    </Head>
+                    </head>
 
                     <div className='flex text-sm md:text-lg basicMargin'>
                         <div className='flex items-center mt-2 space-x-1 lg:space-x-2'>

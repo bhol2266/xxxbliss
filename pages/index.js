@@ -200,14 +200,13 @@ export default function Home({ finalDataArray, trendingChannels, tags, trendingP
   return (
     <div className=" ">
       <Head>
-        <title>Watch hot porn videos for free at XXXBliss!</title>
-        <meta name="description" content="Looking for free porn videos and exclusive XXX movies? Look no further than XXXBliss. With instant streaming of over 6 million hardcore sex videos from both professionals and amateurs, our high-quality porn tube has everything you need to satisfy your desires. Whether you're looking for sensual solo scenes or wild group sex, XXXBliss has it all. Join us now and start exploring our vast collection of adult content." />
+        <title>Explore Exciting Adult Content at XXXBliss - Free Porn Videos</title>
+        <meta name="description" content="Discover a thrilling collection of free porn videos and exclusive XXX movies at XXXBliss. With over 6 million hardcore sex videos available for instant streaming, you can indulge in a variety of sensual solo scenes and wild group sex. Join XXXBliss now to satisfy all your desires and explore our vast adult content library." />
         <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="msvalidate.01" content="8A6530C78E46DD0011117B2ECB618480" />
-        <meta property="og:title" content="Watch hot porn videos for free at XXXBliss!" />
-        <meta property="og:description" content="Looking for free porn videos and exclusive XXX movies? Look no further than XXXBliss. With instant streaming of over 6 million hardcore sex videos from both professionals and amateurs, our high-quality porn tube has everything you need to satisfy your desires. Whether you're looking for sensual solo scenes or wild group sex, XXXBliss has it all. Join us now and start exploring our vast collection of adult content." />
+        <meta property="og:title" content="Explore Exciting Adult Content at XXXBliss - Free Porn Videos" />
+        <meta property="og:description" content="Discover a thrilling collection of free porn videos and exclusive XXX movies at XXXBliss. With over 6 million hardcore sex videos available for instant streaming, you can indulge in a variety of sensual solo scenes and wild group sex. Join XXXBliss now to satisfy all your desires and explore our vast adult content library." />
         <link rel="canonical" href={`https://www.XXXBliss.com/`} />
-
       </Head>
 
 

@@ -82,17 +82,14 @@ function Search({ tags }) {
         <div className="basicMargin mt-3">
 
             <Head>
-                <title>Search Porn Videos, Discover Free XXX Movies Online | XXXBliss</title>
-                <meta name="description"
-                    content="XXXBliss is known as one of the most advanced porn video search engines, offering a wide variety of full-length hardcore sex movies, short XXX video clips, and high-quality adult tube scenes. Whatever type of porn video you desire, you can count on XXXBliss to deliver exactly what you're looking for!" />
-                G
-                <meta property="og:title" content="Search Porn Videos, Discover Free XXX Movies Online | XXXBliss" />
-                <meta property="og:description" content="XXXBliss is known as one of the most advanced porn video search engines, offering a wide variety of full-length hardcore sex movies, short XXX video clips, and high-quality adult tube scenes. Whatever type of porn video you desire, you can count on XXXBliss to deliver exactly what you're looking for!" />
-                <meta name="twitter:title" content="Search Porn Videos, Discover Free XXX Movies Online | XXXBliss" />
-                <meta name="twitter:description" content="XXXBliss is known as one of the most advanced porn video search engines, offering a wide variety of full-length hardcore sex movies, short XXX video clips, and high-quality adult tube scenes. Whatever type of porn video you desire, you can count on XXXBliss to deliver exactly what you're looking for!" />
+                <title>Explore a World of Sensual Pleasure | XXXBliss</title>
+                <meta name="description" content="Indulge in a wide array of tantalizing adult videos on XXXBliss, the ultimate destination for sensual entertainment. Discover full-length erotic movies, steamy shorts, and high-quality adult content that will satisfy your desires. Unleash your fantasies with XXXBliss today!" />
+                <meta property="og:title" content="Explore a World of Sensual Pleasure | XXXBliss" />
+                <meta property="og:description" content="Indulge in a wide array of tantalizing adult videos on XXXBliss, the ultimate destination for sensual entertainment. Discover full-length erotic movies, steamy shorts, and high-quality adult content that will satisfy your desires. Unleash your fantasies with XXXBliss today!" />
+                <meta name="twitter:title" content="Explore a World of Sensual Pleasure | XXXBliss" />
+                <meta name="twitter:description" content="Indulge in a wide array of tantalizing adult videos on XXXBliss, the ultimate destination for sensual entertainment. Discover full-length erotic movies, steamy shorts, and high-quality adult content that will satisfy your desires. Unleash your fantasies with XXXBliss today!" />
                 <meta name="twitter:card" content="summary_large_image" />
-                <link rel="canonical" href={`https://www.XXXBliss.com/search`} />
-
+                <link rel="canonical" href={`https://www.XXXBliss.com/explore`} />
             </Head>
 
             <PopunderAds />

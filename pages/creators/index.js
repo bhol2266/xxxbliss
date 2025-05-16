@@ -118,19 +118,14 @@ function Index({ finalDataArray, pages }) {
             <div className='basicMargin'>
 
                 <Head>
-
-                    <title>Hot Porn Creators and Exclusive Adult Videos - XXXBliss</title>
-                    <meta name="description" content="The Hottest Japanese Porn Movies Divided By Channels! Discover on JAV HD the Best XXX JAV Channels & Free Sex Scenes: JAVHD, CARIBBEANCOM, JAVHUB, JAPANHDV" />
-                    <meta name="keywords" content="porn, xxx, streaming porn, HD porn, HD adult videos, HD pussy videos, sex movies, XXXBliss" />
-                    <meta property="og:title" content="Hot Porn Creators and Exclusive Adult Videos - XXXBliss" />
-                    <meta property="og:description" content="The Hottest Japanese Porn Movies Divided By Channels! Discover on JAV HD the Best XXX JAV Channels & Free Sex Scenes: JAVHD, CARIBBEANCOM, JAVHUB, JAPANHDV" />
-                    <meta name="twitter:title" content="Hot Porn Creators and Exclusive Adult Videos - XXXBliss" />
-                    <meta name="twitter:description" content="The Hottest Japanese Porn Movies Divided By Channels! Discover on JAV HD the Best XXX JAV Channels & Free Sex Scenes: JAVHD, CARIBBEANCOM, JAVHUB, JAPANHDV" />
+                    <title>Best Porn Creators and Exclusive Adult Videos - XXXBliss</title>
+                    <meta name="description" content="Explore the top adult videos and porn creators on XXXBliss. Enjoy high-quality XXX content from popular channels like JAVHD, CARIBBEANCOM, JAVHUB, JAPANHDV." />
+                    <meta name="keywords" content="porn, adult videos, XXX, top porn creators, exclusive videos, JAVHD, CARIBBEANCOM, JAVHUB, JAPANHDV" />
+                    <meta property="og:title" content="Best Porn Creators and Exclusive Adult Videos - XXXBliss" />
+                    <meta property="og:description" content="Explore the top adult videos and porn creators on XXXBliss. Enjoy high-quality XXX content from popular channels like JAVHD, CARIBBEANCOM, JAVHUB, JAPANHDV." />
+                    <meta name="twitter:title" content="Best Porn Creators and Exclusive Adult Videos - XXXBliss" />
+                    <meta name="twitter:description" content="Explore the top adult videos and porn creators on XXXBliss. Enjoy high-quality XXX content from popular channels like JAVHD, CARIBBEANCOM, JAVHUB, JAPANHDV." />
                     <link rel="canonical" href={`https://www.XXXBliss.com/creators`} />
-
-
-
-
                 </Head>
 
 

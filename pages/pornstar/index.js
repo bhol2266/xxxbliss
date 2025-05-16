@@ -84,15 +84,13 @@ function Index() {
 
         <div className="basicMargin mt-2">
             <Head>
-                <title>The Hottest Pornstars: Watch Free Top Porn Star Videos on XXXBliss</title>
-                <meta name="description" content="Discover the hottest adult film stars and models on the largest FREE adult tube at XXXBliss.com. Enjoy a wide selection of stunning babes ready to please you 24/7!" />
-
-                <meta property="og:title" content="The Hottest Pornstars: Watch Free Top Porn Star Videos on XXXBliss" />
-                <meta property="og:description" content="Discover the hottest adult film stars and models on the largest FREE adult tube at XXXBliss.com. Enjoy a wide selection of stunning babes ready to please you 24/7!" />
-                <meta name="twitter:title" content="The Hottest Pornstars: Watch Free Top Porn Star Videos on XXXBliss" />
-                <meta name="twitter:description" content="Discover the hottest adult film stars and models on the largest FREE adult tube at XXXBliss.com. Enjoy a wide selection of stunning babes ready to please you 24/7!" />
-                <link rel="canonical" href={`https://www.XXXBliss.com/pornstar`} />
-
+                <title>Explore the Best Adult Entertainment: Watch Top Videos on XXXBliss</title>
+                <meta name="description" content="Experience the ultimate adult entertainment on XXXBliss.com. Discover a wide range of videos featuring the hottest models and performers in the industry." />
+                <meta property="og:title" content="Explore the Best Adult Entertainment: Watch Top Videos on XXXBliss" />
+                <meta property="og:description" content="Experience the ultimate adult entertainment on XXXBliss.com. Discover a wide range of videos featuring the hottest models and performers in the industry." />
+                <meta name="twitter:title" content="Explore the Best Adult Entertainment: Watch Top Videos on XXXBliss" />
+                <meta name="twitter:description" content="Experience the ultimate adult entertainment on XXXBliss.com. Discover a wide range of videos featuring the hottest models and performers in the industry." />
+                <link rel="canonical" href={`https://www.XXXBliss.com/adult-entertainment`} />
             </Head>
 
 
@@ -154,7 +152,7 @@ function Index() {
             </div>
 
 
-            { suggestedData.length == 0 &&
+            {suggestedData.length == 0 &&
                 <InfiniteScroll
                     dataLength={data.length}
                     next={fetchMoreData}

@@ -128,18 +128,13 @@ function Index({ video_collection, trendingChannels, newChannels }) {
             <div className='basicMargin'>
 
                 <Head>
-
-                    <title>Top Porn Channels: Leading Sex Video Producers & Creators | XXXBliss</title>
-                    <meta name="description" content="Explore an extensive catalog of the top porn tube channels featuring talented sex video producers and XXX creators. Discover complimentary films from your preferred adult paysites on XXXBliss!" />
-                    <meta property="og:title" content="Top Porn Channels: Leading Sex Video Producers & Creators | XXXBliss" />
-                    <meta property="og:description" content="Explore an extensive catalog of the top porn tube channels featuring talented sex video producers and XXX creators. Discover complimentary films from your preferred adult paysites on XXXBliss!" />
-                    <meta name="twitter:title" content="Top Porn Channels: Leading Sex Video Producers & Creators | XXXBliss" />
-                    <meta name="twitter:description" content="Explore an extensive catalog of the top porn tube channels featuring talented sex video producers and XXX creators. Discover complimentary films from your preferred adult paysites on XXXBliss!" />
+                    <title>Discover the Best Adult Entertainment Channels | XXXBliss</title>
+                    <meta name="description" content="Explore a diverse selection of premium adult entertainment channels showcasing the finest content creators and producers. Watch high-quality films from top adult sites for free on XXXBliss!" />
+                    <meta property="og:title" content="Discover the Best Adult Entertainment Channels | XXXBliss" />
+                    <meta property="og:description" content="Explore a diverse selection of premium adult entertainment channels showcasing the finest content creators and producers. Watch high-quality films from top adult sites for free on XXXBliss!" />
+                    <meta name="twitter:title" content="Discover the Best Adult Entertainment Channels | XXXBliss" />
+                    <meta name="twitter:description" content="Explore a diverse selection of premium adult entertainment channels showcasing the finest content creators and producers. Watch high-quality films from top adult sites for free on XXXBliss!" />
                     <link rel="canonical" href={`https://www.XXXBliss.com/channels`} />
-
-
-
-
                 </Head>
 
 
